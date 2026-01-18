@@ -1,0 +1,19 @@
+链接预测 totalprc: 86.33333333333333, totalmrr: 105.52470238095236, allbatch: 133, average_prc: 0.649123, average_mrr: 0.793419
+链接预测 totalprc: 73.0, totalmrr: 94.30372023809525, allbatch: 133, average_prc: 0.548872, average_mrr: 0.709051
+分类任务 totalprc: 0.5889355742296919, totalmrr: 0.3887643946467476, allbatch: 714
+分类任务 totalprc: 0.5563725490196079, totalmrr: 0.35920979502912204, allbatch: 714
+检索  map: 0.7728  ndcg: 0.8253  recip_rank: 0.7728  recall_10: 0.9333
+检索  map: 0.7728  ndcg: 0.8253  recip_rank: 0.7728  recall_10: 0.9333
+检索  map: 0.7659  ndcg: 0.8190  recip_rank: 0.7659  recall_10: 0.9333
+排序任务 totalprc: 0.7966666666666666, totalmrr: 0.8474823833573835, allbatch: 75
+
+
+排序任务 totalprc: 0.7533333333333333, totalmrr: 0.8215651894401895, allbatch: 75
+
+
+链接预测 totalprc: 53.982142857142854, totalmrr: 59.275595238095235, allbatch: 66, average_prc: 0.817911, average_mrr: 0.898115
+分类任务 totalprc: 0.7207241910631741, totalmrr: 0.547892973316703, allbatch: 649
+检索  map: 0.7903  ndcg: 0.8386  recip_rank: 0.7903  recall_10: 0.9367
+排序任务 totalprc: 0.79, totalmrr: 0.8412698782698782, allbatch: 75
+
+
